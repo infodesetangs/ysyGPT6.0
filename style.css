@@ -1,0 +1,16 @@
+<style>
+    zapier-interfaces-chatbot-embed {
+        /* Propriétés pour le centrage horizontal */
+        display: block; 
+        margin: 20px auto; 
+
+        /* Propriétés pour AGRANDIR LA TAILLE (modifie ces valeurs) */
+        width: 500px;  /* Augmente la largeur */
+        height: 700px; /* Augmente la hauteur */
+        
+        /* Reste des styles (bordure, ombre) */
+        border: 1px solid #ccc; 
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+</style>
